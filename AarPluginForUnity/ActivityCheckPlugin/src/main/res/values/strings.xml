@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ActivityPlugin</string>
+    <string name="message">Hello from the AAR plugin!</string>
+</resources>
