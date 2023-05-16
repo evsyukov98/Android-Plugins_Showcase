@@ -4,6 +4,7 @@ import android.content.Context
 import android.content.Intent
 
 object StartActivityHelper {                                                // синглтон
+    @JvmStatic
     fun openActivity(context: Context) {
 
         var needActivity = ActivityStringResources::class.java;             // берем ссылку на активити которую хотим запустить
